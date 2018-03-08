@@ -18,7 +18,7 @@
     "globals": {
       "__DEBUG__": false,
       "process.env": {
-        "NODE_ENV": "production"
+        "NODE_ENV": "dev"
       }
     },
     "verbose": true,
